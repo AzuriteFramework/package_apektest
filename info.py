@@ -9,10 +9,10 @@ module_files = [
 ]
 
 #   Files by the package
-package_files = ['bar.txt']
+package_files = []
 
 #   Directories by the package
-package_dirs = ['apektest', 'tmp/foo']
+package_dirs = []
 
 identifier = 'apek.testing'
 
